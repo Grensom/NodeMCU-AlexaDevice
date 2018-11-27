@@ -6,11 +6,11 @@ Use a NodeMCU (ESP-12E) to control literally Anything in your house by turning i
  2. Mini USB Cables - http://a.co/d/7UUkQWU
  3. Arduino IDE - https://www.arduino.cc/en/Main/Software
  
-### How to Connect NodeMCU to Arduino IDE
+### STEP 1: Connecting NodeMCU to Arduino IDE
 
 1. 
 
-### How to use with Alexa
+### STEP 2: Controlling NodeMCU with Alexa
 
 1. Register for an account (https://sinric.com) if you do not have one (Use Chrome, FireFox)
 
