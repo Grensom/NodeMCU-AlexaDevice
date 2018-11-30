@@ -9,11 +9,11 @@ Use a NodeMCU (ESP-12E) to control literally Anything in your house by turning i
 ### STEP 1: Connecting NodeMCU to Arduino IDE
 
 1. Download or Clone Repository
-2. Dopnwload and Include the following Libraries:
+2. Download and Include the following Libraries:
  - #include <WebSocketsClient.h> //  https://github.com/kakopappa/sinric/wiki/How-to-add-dependency-libraries
  - #include <ArduinoJson.h> // https://github.com/kakopappa/sinric/wiki/How-to-add-dependency-libraries
 3. Open Arduino.IDE and go to Board Manager > ESP8266 and get boards
-4. Open the sketch needed
+4. Open the sketch needed (NodeMCU-Alexa.ino)
 4. Upload to NodeMCU chip
 
 ### STEP 2: Controlling NodeMCU with Alexa
