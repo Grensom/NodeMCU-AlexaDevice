@@ -1,5 +1,6 @@
 # NodeMCU-AlexaDevice
 Use a NodeMCU (ESP-12E) to control literally Anything in your house by turning into a Smart Switch.
+View my video tutorial on YouTube for more information: COMING SOON
 
 ### What you will Need:
  1. NodeMCU - http://a.co/d/eVLpLl1
