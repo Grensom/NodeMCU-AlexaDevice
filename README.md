@@ -28,6 +28,8 @@ Use a NodeMCU (ESP-12E) to control literally Anything in your house by turning i
 
 5. Change the Arduino Sketch. Replace the API Key, Wifi SSID and Password
 
-6. Install Amazon Alexa Smart Home Skill (Available in US, German, India, UK, Canada, Australia, New Zealand, Italy) here and Link to your Sinric account. https://www.amazon.com/dp/B078RGYWQQ
+6. Change the Device ID in Arduino Code to that supplied on Sinric website
 
-7. Discover for new devices.
+7. Install Amazon Alexa Smart Home Skill (Available in US, German, India, UK, Canada, Australia, New Zealand, Italy) here and Link to your Sinric account. https://www.amazon.com/dp/B078RGYWQQ
+
+8. Discover for new devices.
