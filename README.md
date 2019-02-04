@@ -25,7 +25,7 @@ View my video tutorial on YouTube for more information: COMING SOON
 
 3. Copy your API Key from dashboard
 
-4. Connect to Sinric IOT server. For an example use switch https://github.com/kakopappa/sinric/blob/master/arduino_examples
+4. Connect to Sinric IOT server >> Use NodeMCU-Alexa.ino sketch. For other examples:  https://github.com/kakopappa/sinric/blob/master/arduino_examples
 
 5. Change the Arduino Sketch. Replace the API Key, Wifi SSID and Password
 
